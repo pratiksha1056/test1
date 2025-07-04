@@ -1,10 +1,10 @@
 public class Main{
   public static void main(String[]args) {
-    Addition a = new Addition();
-    Subtraction s= new Subtraction();
-    int a=10,b=5;
-    int sum =a.add(a,b);
-    int diff = s.subtract(a,b);
+    Addition addObj = new Addition();
+    Subtraction subObj= new Subtraction();
+    int num1=10,    num2 b=5;
+    int sum =addObj.add(num1,num2);
+    int diff = s.subtract(num1,num2);
 
     System.out.println("Addition result : "+sum);
     System.out.println("Subtraction result:"+diff);
