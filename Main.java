@@ -6,7 +6,7 @@ public class Main{
     int sum =addObj.addition(num1,num2);
     int diff = subObj.subtraction(num1,num2);
 
-    System.out.println("Addition result : "+sum);
+    System.out.println("Addition ffd result : "+sum);
     System.out.println("Subtraction trt result:"+diff);
   }
 }
