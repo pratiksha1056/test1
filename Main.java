@@ -7,7 +7,7 @@ public class Main{
     int diff = subObj.subtraction(num1,num2);
 
     System.out.println("Addition result : "+sum);
-    System.out.println("Subtraction result:"+diff);
+    System.out.println("Subtraction trt result:"+diff);
   }
 }
   
